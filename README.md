@@ -1,1 +1,2 @@
 # aiteacher
+hello, World, exercise
